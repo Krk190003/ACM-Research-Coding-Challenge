@@ -76,6 +76,7 @@ Used the following Libraries/Imports:
   2. Kmeans from sklearn.cluster: Used to make it easier and more effiecient to calclate the distrotions for many cluster values 
   
   Sources: 
+  
   edureka! “K Means Clustering Algorithm | K Means Example in Python | Machine Learning Algorithms | Edureka.” YouTube, uploaded by edureka, 28 May 2018, www.youtube.com/watch?v=1XqG0kaJVHY&t=1456s. 
  
  “Elbow Method for Optimal Value of k in KMeans.” GeeksforGeeks, www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans. Accessed 8 Sept. 2020.
