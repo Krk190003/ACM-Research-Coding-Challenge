@@ -27,7 +27,7 @@ Name: Kokil Kounder
 
 Student ID: Krk190003
 
-Utdallasemail: Krk190003@utdallas.edu 
+Utdemail: Krk190003@utdallas.edu 
 
 Code: 
 ```
