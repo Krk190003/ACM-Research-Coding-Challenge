@@ -28,7 +28,7 @@ Student ID: Krk190003
 Utdallasemail: Krk190003@utdallas.edu 
 
 Code: 
-
+```
 import csv
 from sklearn.cluster import KMeans
 
@@ -58,6 +58,7 @@ for i in range(1, 11):
     distortions.append(KM.inertia_)
 print(findNumClusters(distortions))
 
+```
 
 
 
